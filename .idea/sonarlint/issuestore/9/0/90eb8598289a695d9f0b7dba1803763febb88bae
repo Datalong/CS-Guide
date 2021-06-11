@@ -1,0 +1,30 @@
+
+@
+java:S1444",Make this "public static gender" field final(Ø‹n
+@
+java:S1444"+Make this "public static score" field final(ªªF
+D
+java:S1444")Make this "public static age" field final(àòÑ ùÿÿÿÿ
+g	java:S101	"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(±¡¦ÿÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(õÒ©¦ûÿÿÿÿ
+f
+java:S1104"RMake gender a static final constant or non-public and provide accessors if needed.(Ø‹n
+f
+java:S1104"QMake score a static final constant or non-public and provide accessors if needed.(ªªF
+j
+java:S1104"OMake age a static final constant or non-public and provide accessors if needed.(àòÑ ùÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(³¹×÷
+S	java:S106*"9Replace this use of System.out or System.err by a logger.(»ç®Öúÿÿÿÿ
+h	java:S100/"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(à…°Úüÿÿÿÿ
+h	java:S1000"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½Ğª—ıÿÿÿÿ
+N
+java:S16103"8Convert the abstract class "WhiteDog" into an interface.(ÂşÖÛ
+h	java:S1005"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’¾ÁÀùÿÿÿÿ
+S	java:S1066"9Replace this use of System.out or System.err by a logger.(Ş¶üŒûÿÿÿÿ
+h	java:S1009"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©¡ûùÿÿÿÿ
+h	java:S100:"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®éñäşÿÿÿÿ
+N	java:S106="9Replace this use of System.out or System.err by a logger.(Àìóã
+c	java:S100@"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤ÁóÙ
+N	java:S106A"9Replace this use of System.out or System.err by a logger.(“³Íå
+F
+java:S1068"+Remove this unused "getName" private field.(Òõùüÿÿÿÿ

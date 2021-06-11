@@ -1,0 +1,12 @@
+
+h
+java:S2095"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(ºó¤Úûÿÿÿÿ
+i
+java:S2095"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(¢øÐáûÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(é™¼ùøÿÿÿÿ
+\
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(ºó¤Úûÿÿÿÿ
+\
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(¢øÐáûÿÿÿÿ
+?
+java:S1481")Remove this unused "file" local variable.(ÀÊ÷Ë
